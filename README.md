@@ -1,12 +1,13 @@
-# Ứng dụng DSP  Chip MVsilicon
+# NVMaudio.ID.VN  - ANT  FW và Tool DSP cho MVsilicon
+Mọi vấn đề hay thông báo lỗi vui lòng gửi tin nhắn cho DEV : [Nguyễn Văn Mạnh](https://www.facebook.com/NvmAudio)
 
-Đây là ứng dụng được viết bằng .NET giúp bạn can thiệp vào phần mềm chip BP1048.
+## 🔧 FW (Rom Chip)
 
-## 🔧 Tính năng
+| STT | Tên        | Các phiên bản                                          |
+|-----|------------|--------------------------------------------------------|
+| 1   | ANT-ANALOG | [Releases](https://github.com/ten-cua-ban/ten-repo/releases) |
+| 2   | ANT-I2S    | [Releases](https://github.com/ten-cua-ban/ten-repo/releases) |
 
-- Cài đặt thông số bo mạch, bluetooth.
-- Thay đổi nhạc khởi động,..
-- Giao diện đơn giản, dễ dùng
 
 ## 🚀 Cách sử dụng
 
