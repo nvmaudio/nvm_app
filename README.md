@@ -1,6 +1,6 @@
 # NVMaudio.ID.VN  - ANT  FW và Tool DSP cho MVsilicon
 Mọi vấn đề hay thông báo lỗi vui lòng gửi tin nhắn cho DEV : [Nguyễn Văn Mạnh](https://www.facebook.com/NvmAudio)
-
+<a href="https://www.facebook.com/NvmAudio" target="_blank" rel="noopener noreferrer">Nguyễn Văn Mạnh</a>
 ## 🔧 FW (Rom Chip)
 
 | STT | Tên        | Các phiên bản                                          |
