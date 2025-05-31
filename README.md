@@ -1,5 +1,10 @@
 # NVMaudio.ID.VN  - ANT  FW và Tool DSP cho MVsilicon
 Mọi vấn đề hay thông báo lỗi vui lòng gửi tin nhắn cho DEV : [Nguyễn Văn Mạnh](https://www.facebook.com/NvmAudio)
+
+## 📦 Chú ý:  Mọi thao tác flash FW hay update dữ liệu cần chú ý:
+- Kết nối bo mạch ổn định, không bị lỏng hay bị ngắt kết nối usb.
+- Quá trình flash FW hay update dữ liệu , Vui lòng không chạm vào dây kết nối và bo mạch.
+
 ## 🔧 FW (Rom Chip)
 
 | STT | Tên FW     | Link FW                                                |
@@ -12,11 +17,8 @@ Mọi vấn đề hay thông báo lỗi vui lòng gửi tin nhắn cho DEV : [Ng
 
 | STT | Tên Phần Mềm           | Link Phần mềm                                          |
 |-----|------------------------|--------------------------------------------------------|
-| 1   | ANT-ANALOG             | [Tải Về](https://github.com/ten-cua-ban/ten-repo/releases) |
-| 2   | ANT-I2S                | [Tải Về](https://github.com/ten-cua-ban/ten-repo/releases) |
-
-
-1. Tải file `.exe` từ tab [Releases](https://github.com/nvmaudio/nvm_app/releases/tag/ANT_DSP)
-2. Giải nén và chạy `ANT-DSP-Vx.x.x.exe`
+| 1   | ANT-DSP                 | [Tải Về](https://github.com/ten-cua-ban/ten-repo/releases) |
+| 2   | ACPWorkbench      ( DSP - Hiệu ứng Âm thanh)      | [Tải Về](https://github.com/ten-cua-ban/ten-repo/releases) |
+| 3   | MV_Assisant_Tools ( Update FW và dữ liệu)         | [Tải Về](https://github.com/ten-cua-ban/ten-repo/releases) |
 
 
