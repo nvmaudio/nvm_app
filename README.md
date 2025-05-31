@@ -19,6 +19,6 @@ Mọi vấn đề hay thông báo lỗi vui lòng gửi tin nhắn cho DEV : [Ng
 |-----|------------------------|--------------------------------------------------------|
 | 1   | ANT-DSP           ( VOL, bluetooth, Key, VR )     | [Tải Về](https://github.com/nvmaudio/nvm_app/releases/tag/ANT_DSP) |
 | 2   | ACPWorkbench      ( DSP - Hiệu ứng Âm thanh)      | [Tải Về](https://github.com/nvmaudio/nvm_app/releases/tag/ACPWorkbench) |
-| 3   | MV_Assisant_Tools ( Update FW và dữ liệu)         | [Tải Về](https://github.com/ten-cua-ban/ten-repo/releases) |
+| 3   | MV_Assisant_Tools ( Update FW và dữ liệu)         | [Tải Về](https://github.com/nvmaudio/nvm_app/releases/tag/MV_Assisant_Tools) |
 
 
