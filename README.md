@@ -7,10 +7,10 @@ Mọi vấn đề hay thông báo lỗi vui lòng gửi tin nhắn cho DEV : [Ng
 
 ## 🔧 FW (Rom Chip)
 
-| STT | Tên FW     | Link FW                                                |
-|-----|------------|--------------------------------------------------------|
-| 1   | ANT-ANALOG | [Chi Tiết và Tải Xuống](https://github.com/ten-cua-ban/ten-repo/releases) |
-| 2   | ANT-I2S    | [Chi Tiết và Tải Xuống](https://github.com/ten-cua-ban/ten-repo/releases) |
+| STT | Tên FW     | Mã SP      | Link FW                                                |
+|-----|------------|------------|--------------------------------------------------------|
+| 1   | ANT-ANALOG | AM02       | [Chi Tiết và Tải Xuống](https://github.com/ten-cua-ban/ten-repo/releases) |
+| 2   | ANT-I2S    | IM02       | [Chi Tiết và Tải Xuống](https://github.com/ten-cua-ban/ten-repo/releases) |
 
 
 ## 🚀 TOOL cài đặt và DSP
