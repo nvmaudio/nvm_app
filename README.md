@@ -9,8 +9,8 @@ Mọi vấn đề hay thông báo lỗi vui lòng gửi tin nhắn cho DEV : [Ng
 
 | STT | Tên FW     | Mã SP      | Link FW                                                |
 |-----|------------|------------|--------------------------------------------------------|
-| 1   | ANT-ANALOG | AM02       | [Chi Tiết và Tải Xuống](https://github.com/ten-cua-ban/ten-repo/releases) |
-| 2   | ANT-I2S    | IM02       | [Chi Tiết và Tải Xuống](https://github.com/ten-cua-ban/ten-repo/releases) |
+| 1   | ANT-ANALOG | AM02       | [Chi Tiết và Tải Xuống](https://github.com/nvmaudio/nvm_app/releases/tag/MA02) |
+| 2   | ANT-I2S    | IM02       | [Chi Tiết và Tải Xuống](https://github.com/nvmaudio/nvm_app/releases/tag/IM02) |
 
 
 ## 🚀 TOOL cài đặt và DSP
